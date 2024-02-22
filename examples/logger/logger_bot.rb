@@ -10,7 +10,7 @@ class LoggerBot < IRCBot
 
   public
   # Starts a new instance
-  #
+  # JUST A STUPID TEST of VSCODE IN BROWSER
   # Options:
   # * <tt>:irc_network</tt>: IP/name of server
   # * <tt>:port</tt>: ...
